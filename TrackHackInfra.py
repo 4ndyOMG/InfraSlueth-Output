@@ -5,7 +5,7 @@ os.system('git pull origin main')
 
 # Create a file
 f = open("demofile6.txt", "a")
-f.write("Now the file has more content!")
+f.write("Now the file has less content!")
 f.close()
 
 # Push output of script to repo. 
