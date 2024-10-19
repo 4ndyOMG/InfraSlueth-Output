@@ -16,4 +16,5 @@ The Python script used to run queries will be released once they are refined and
 IOC's
 
 [C2](https://github.com/4ndyOMG/InfraSlueth-Output/tree/main/C2)
+
 [BOTNET](https://github.com/4ndyOMG/InfraSlueth-Output/tree/main/botnet)
