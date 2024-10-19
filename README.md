@@ -7,4 +7,5 @@ To protect our detection techniques, hunting rules will remain private.
 The Python scripts used to run queries will be released once they are refined and presentable.
 
 [Inspiration: MontySecurity C2 Tracker](https://github.com/montysecurity/C2-Tracker)
+
 [Training: Intel-Ops Academ](https://academy.intel-ops.io)
