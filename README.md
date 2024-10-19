@@ -13,7 +13,7 @@ The Python script used to run queries will be released once they are refined and
 [Training: Intel-Ops Academy](https://academy.intel-ops.io)
 
 
-IOC's
+## IOC's
 
 [C2](https://github.com/4ndyOMG/InfraSlueth-Output/tree/main/C2)
 
