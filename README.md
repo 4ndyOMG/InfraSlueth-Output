@@ -11,3 +11,9 @@ The Python script used to run queries will be released once they are refined and
 [Inspiration: MontySecurity C2 Tracker](https://github.com/montysecurity/C2-Tracker)
 
 [Training: Intel-Ops Academy](https://academy.intel-ops.io)
+
+
+IOC's
+
+[C2](https://github.com/4ndyOMG/InfraSlueth-Output/tree/main/C2)
+[BOTNET](https://github.com/4ndyOMG/InfraSlueth-Output/tree/main/botnet)
