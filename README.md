@@ -6,8 +6,6 @@ The scripts and rules powering this repository are maintained in a private repos
 
 To protect detection techniques the hunting rules will remain private.
 
-The Python script powering this output will be released once refined.
-
 [Inspiration: MontySecurity C2 Tracker](https://github.com/montysecurity/C2-Tracker)
 
 [Training: Intel-Ops Academy](https://academy.intel-ops.io)
