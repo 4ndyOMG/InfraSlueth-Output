@@ -15,4 +15,4 @@ To protect detection techniques the hunting rules will remain private.
 
 [C2](https://github.com/4ndyOMG/InfraSlueth-Output/tree/main/C2)
 
-[BOTNET](https://github.com/4ndyOMG/InfraSlueth-Output/tree/main/botnet)
+[BOTNET](https://github.com/4ndyOMG/InfraSlueth-Output/tree/main/BOTNET)
